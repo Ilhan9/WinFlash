@@ -87,6 +87,7 @@ namespace WindowsService
 
         private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
+            this.Close();
             notifyIcon1.Visible = false;
         }
     }
