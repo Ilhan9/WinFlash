@@ -100,6 +100,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -360,7 +368,7 @@
         {
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_5A8C90F3895A4B2E9D708BA418B9BC70"
             {
-            "Name" = "8:Windows Service 2"
+            "Name" = "8:WinFlash"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -773,7 +781,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_E1E4DCAB444349D38F78CEBFB2DD6797"
             {
-            "SourcePath" = "8:"
+            "SourcePath" = "8:..\\WindowsService\\obj\\Debug\\WindowsService.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_FCDF9819EC074F23999FA317DEE4C845"
