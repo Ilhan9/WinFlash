@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\User\source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\User\source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.Form1.resources
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
+C:\Users\User\source\repos\WindowsService\WindowsService\bin\Debug\dje-NE\WindowsService.resources.dll
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.Form1.dje-NE.resources
+C:\Users\User\source\repos\WindowsService\WindowsService\obj\Debug\dje-NE\WindowsService.resources.dll
