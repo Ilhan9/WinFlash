@@ -75,7 +75,7 @@ namespace WindowsService
             notifyIcon1.ShowBalloonTip(3000);
         }
         
-        /*/
+        
         private void button1_Click(object sender, EventArgs e)
         {
             this.ShowInTaskbar = false;
@@ -87,13 +87,7 @@ namespace WindowsService
 
         private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
-            this.ShowInTaskbar = true;
-            this.WindowState = FormWindowState.Normal;
-            this.Show();
             notifyIcon1.Visible = false;
         }
-        /*/
-
-
     }
 }
